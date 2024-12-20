@@ -1,2 +1,2 @@
 # archinstall
-Development environment install scripts
+Development environment install scripts of August Guidry
